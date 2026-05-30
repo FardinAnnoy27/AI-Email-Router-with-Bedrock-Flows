@@ -4,7 +4,6 @@
 
 An automated AI email routing pipeline built with **Amazon Bedrock Flows** and **Bedrock Prompt Management** that classifies customer emails by intent and generates tailored responses — all without writing a single line of code.
 
-Built as part of the [NextWork](https://learn.nextwork.org) Generative AI Developer series.
 
 ---
 
